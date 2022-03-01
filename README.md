@@ -6,3 +6,4 @@ rgba(redValue, greenValue, blueValue, alphaValue);
   height: 25px;
   background-color: white;
 }
+In the .sleeve rule, use the rgba function to set the background-color property to pure white with 50% opacity.
