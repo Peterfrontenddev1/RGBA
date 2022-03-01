@@ -12,4 +12,5 @@ In the .sleeve rule, use the rgba function to set the background-color property 
   height: 25px;
   background-color: white;
   rgba(255, 255, 255, 0.5)
+  /* the 0.5 in the rgba value is for opacity */
 }
