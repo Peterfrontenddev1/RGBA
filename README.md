@@ -10,5 +10,5 @@ In the .sleeve rule, use the rgba function to set the background-color property 
 .sleeve {
   width: 110px;
   height: 25px;
-  background-color: 
+  background-color: WHITE
 }
