@@ -5,4 +5,4 @@ rgba(redValue, greenValue, blueValue, alphaValue);
   width: 110px;
   height: 25px;
   background-color: white;
-}
+
